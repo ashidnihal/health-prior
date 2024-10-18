@@ -1,0 +1,26 @@
+
+.patient-detail h5 {
+    color: #130e0e;
+}
+
+.patient-detail p {
+    color: #130e0e;
+}
+
+.patient-detail .contact-type {
+    color: #fbf3f3;
+}
+.patient-head{
+    background-color: #187ae7;
+    color: aliceblue;
+    
+}
+.card{
+    border-radius: 15px;
+    overflow: hidden; 
+}
+.patient-detail{
+    border-radius: 15px;
+    overflow: hidden; 
+
+}
